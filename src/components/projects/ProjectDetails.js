@@ -10,7 +10,7 @@ const ProjectDetails = (props) => {
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At blanditiis cupiditate deleniti eligendi error fugiat id illo, ipsam minima, nam odio omnis quidem, quo ratione repellendus sit totam? Eaque, veritatis?</p>
                 </div>
                 <div className="card-action grey lighten-4 grey-text">
-                    <div>Postet by the NetNinja</div>
+                    <div>Posted by Jequitiba</div>
                     <div>2nd September, 2am</div>
                 </div>
             </div>
